@@ -3,6 +3,7 @@ node_modules
 scripts/check.js
 scripts/invest.js
 out
+.vscode
 
 #Hardhat files
 cache
